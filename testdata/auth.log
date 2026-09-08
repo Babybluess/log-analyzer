@@ -1,0 +1,13 @@
+Sep  8 10:05:01 server sshd[1234]: Failed password for root from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:02 server sshd[1234]: Failed password for root from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:03 server sshd[1234]: Failed password for admin from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:04 server sshd[1234]: Failed password for ubuntu from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:05 server sshd[1234]: Failed password for root from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:06 server sshd[1234]: Failed password for root from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:07 server sshd[1234]: Failed password for pi from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:08 server sshd[1234]: Failed password for git from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:09 server sshd[1234]: Failed password for deploy from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:10 server sshd[1234]: Failed password for ec2-user from 45.33.32.156 port 22 ssh2
+Sep  8 10:05:11 server sshd[1234]: Failed password for root from 45.33.32.156 port 22 ssh2
+Sep  8 10:10:00 server sshd[5678]: Accepted password for deploy from 192.168.1.5 port 45678 ssh2
+Sep  8 10:15:00 server sshd[9012]: Failed password for invalid user nobody from 198.51.100.1 port 12345 ssh2

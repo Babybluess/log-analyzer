@@ -1,0 +1,5 @@
+{"timestamp":"2026-09-08T10:00:00Z","level":"info","message":"Server started","ip":"","path":""}
+{"timestamp":"2026-09-08T10:01:00Z","level":"warn","message":"Failed login attempt","ip":"45.33.32.156","path":"/api/auth/login","method":"POST","statusCode":401,"user":"admin"}
+{"timestamp":"2026-09-08T10:01:30Z","level":"warn","message":"Failed login attempt","ip":"45.33.32.156","path":"/api/auth/login","method":"POST","statusCode":401,"user":"root"}
+{"timestamp":"2026-09-08T10:02:00Z","level":"error","message":"SQL error in query","ip":"10.0.0.1","path":"/api/products","method":"GET","statusCode":500,"error":"syntax error near SELECT"}
+{"timestamp":"2026-09-08T10:03:00Z","level":"info","message":"User logged in","ip":"192.168.1.10","path":"/api/auth/login","method":"POST","statusCode":200,"user":"alice"}
